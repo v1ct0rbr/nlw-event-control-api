@@ -1,4 +1,4 @@
-package com.victorqueiroga.model;
+package com.victorqueiroga.nlw_event_control_api.model;
 
 import java.time.LocalDate;
 import java.time.LocalTime;

@@ -1,13 +1,13 @@
-package com.victorqueiroga.service;
+package com.victorqueiroga.nlw_event_control_api.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.victorqueiroga.model.Event;
-import com.victorqueiroga.repository.EventRepo;
-import com.victorqueiroga.utils.Functions;
+import com.victorqueiroga.nlw_event_control_api.model.Event;
+import com.victorqueiroga.nlw_event_control_api.repository.EventRepo;
+import com.victorqueiroga.nlw_event_control_api.utils.Functions;
 
 @Service
 public class EventService {

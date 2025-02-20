@@ -1,4 +1,4 @@
-package com.victorqueiroga.utils;
+package com.victorqueiroga.nlw_event_control_api.utils;
 
 public class Functions {
 
